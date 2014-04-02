@@ -820,7 +820,6 @@ div#BRzoombtn {
     left: 0;
     background: url("images/icon_zoomer.png");
 }
-
 .BRprogresspopup {
     position: absolute;
     background-color: #e6e4e1;
@@ -836,13 +835,11 @@ div#BRzoombtn {
     box-shadow: 1px 0 3px #333;
     min-width: 300px;
 }
-
 .BRprogressbar {
     background-image: url("images/progressbar.gif");
     background-repeat:no-repeat;
     background-position:center top;
 }
-
 .BRnavCntl {
     background-color: #e2dcc5;
     position: absolute;
